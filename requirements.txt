@@ -1,0 +1,6 @@
+pandas
+xarray
+netcdf4
+openpyxl
+pymupdf
+matplotlib

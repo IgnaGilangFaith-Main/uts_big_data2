@@ -1,0 +1,7 @@
+Keterangan,Nilai
+MAE (BMKG vs rata-rata 6 grid),36.32
+"MAE (BMKG vs grid -7.75,109.75)",36.09
+MAE terbaik antar grid,31.26
+Grid terbaik,"-7.75,109.25"
+MAE terburuk antar ZOM,39.25
+ZOM terburuk,JATENG_18
