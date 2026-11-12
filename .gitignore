@@ -5,12 +5,6 @@ __pycache__/
 .venv/
 venv/
 
-# Data generated / downloaded (not source)
-*.nc
-*.pdf
-*.xlsx
-*.png
-
 # OS / editor
 .DS_Store
 Thumbs.db
